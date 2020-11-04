@@ -1,0 +1,1 @@
+1. create a curl script that tries the set usernamers and 100 common passwords.
